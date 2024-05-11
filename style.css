@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+}
+h2{
+    color: red;
+    margin-bottom: 10px;
+    
+}
+@keyframes ahmad{
+    from{color: teal; font-size: 30px;}
+    to{color: maroon; font-size: 15px;}
+}
+.rid{
+    margin-bottom: 5px;
+    animation: ahmad;
+    animation-duration: 4s;
+}
+.ade{
+    color: teal;
+}
+.cont{
+    text-align: center;
+   
+}
+.para{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 20px;
+}
+.bim{
+    text-align: center;
+}
+.work{
+    text-align: center;
+}
